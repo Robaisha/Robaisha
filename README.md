@@ -3,10 +3,10 @@
 ### <div align="center">Hi there 👋 I'm Robaisha, a Computer Science student at FAST-NUCES Karachi Pakistan😃</div>  
   
 
-- 🔭 I’m currently working on Front-End Web Development  
+- 🔭 I’m currently working on React JS  
   
 
-- 🌱 I’m currently learning C/C++ and Assembly Language  
+- 🌱 I’m currently learning Blockchain and AI  
   
 
 <br/>  
