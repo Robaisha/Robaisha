@@ -12,12 +12,13 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-- Strong foundation in C/C++ and Python programming languages
-- Proficient in Data Structures and Object-Oriented Programming concepts
-- Familiarity with web development technologies such as HTML, CSS, and JavaScript
-- Aptitude for problem-solving and analytical thinking
-- Effective stress management and deadline-meeting skills
-- Quick learner, adept at picking up new technologies and methodologies
+<tr><td>- Strong foundation in C/C++ and Python programming languages</td></tr>
+<tr><td>- Proficient in Data Structures and Object-Oriented Programming concepts</td></tr>
+<tr><td>- Experienced in software development using React JS framework</td></tr>
+<tr><td>- Familiarity with web development technologies such as HTML, CSS, and JavaScript</td></tr>
+<tr><td>- Aptitude for problem-solving and analytical thinking</td></tr>
+<tr><td>- Effective stress management and deadline meeting skills</td></tr>
+<tr><td>- Quick learner, adept at picking up new technologies and methodologies</td></tr>
 </td></tr></table>
 
 
