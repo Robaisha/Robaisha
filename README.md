@@ -7,12 +7,18 @@
 
 🌱 With a solid foundation in software development, I specialize in using frameworks such as React JS to build dynamic and responsive web applications. 
   
-
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+- Strong foundation in C/C++ and Python programming languages
+- Proficient in Data Structures and Object-Oriented Programming concepts
+- Familiarity with web development technologies such as HTML, CSS, and JavaScript
+- Aptitude for problem-solving and analytical thinking
+- Effective stress management and deadline-meeting skills
+- Quick learner, adept at picking up new technologies and methodologies
+</td></tr></table>
 
 
 
