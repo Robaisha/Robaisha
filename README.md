@@ -3,10 +3,9 @@
 ### <div align="center">Hi there 👋 I'm Robaisha, a Computer Science student at FAST-NUCES Karachi Pakistan😃</div>  
   
 
-- 🔭 I’m currently working on React JS  
-  
+🔭 I am a final-year computer science student at FAST NUCES, with a keen interest in pursuing a master's degree in the field of Security, Cloud Computing, or Artificial Intelligence.
 
-- 🌱 I’m currently learning Blockchain and AI  
+🌱 With a solid foundation in software development, I specialize in using frameworks such as React JS to build dynamic and responsive web applications. 
   
 
 <br/>  
