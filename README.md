@@ -7,12 +7,13 @@
 💼 Graduate Trainee focusing on Data Science and Development.
 
 🌱 Software Development Expertise:
-
-React JS 🌟: Building dynamic user interfaces -Front-end Development
-Java Spring Boot & Spring MVC 🔧: Back-end development
-REST API 🌐: Creating web services
-Vue.js 🔄: Developing progressive web applications
-MySQL 🗄️: Database management
+<div>
+  <p>React JS 🌟: Building dynamic user interfaces - Front-end Development</p>
+  <p>Java Spring Boot & Spring MVC 🔧: Back-end development</p>
+  <p>REST API 🌐: Creating web services</p>
+  <p>Vue.js 🔄: Developing progressive web applications</p>
+  <p>MySQL 🗄️: Database management</p>
+</div>
 
 🎓 Education:
 Computer Science graduate from FAST NUCES Batch 2024.
