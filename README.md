@@ -22,15 +22,45 @@ Computer Science graduate from FAST NUCES Batch 2024.
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-<tr><td>- Strong foundation in C/C++ and Python programming languages</td></tr>
-<tr><td>- Proficient in Data Structures and Object-Oriented Programming concepts</td></tr>
-<tr><td>- Experienced in software development using React JS framework</td></tr>
-<tr><td>- Familiarity with web development technologies such as HTML, CSS, and JavaScript</td></tr>
-<tr><td>- Aptitude for problem-solving and analytical thinking</td></tr>
-<tr><td>- Effective stress management and deadline meeting skills</td></tr>
-<tr><td>- Quick learner, adept at picking up new technologies and methodologies</td></tr>
-</td></tr></table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Development Skills</strong>
+      <ul>
+        <li>Proficient in Java programming</li>
+        <li>Strong foundation in C/C++ programming</li>
+        <li>Experienced in Spring MVC and Spring Boot frameworks</li>
+        <li>Skilled in building applications using Vue.js</li>
+        <li>Expertise in MySQL database management</li>
+        <li>Knowledge of Java Database Connectivity (JDBC)</li>
+        <li>Proficient in developing REST APIs</li>
+        <li>Experienced with version control using Git</li>
+        <li>Knowledgeable in Next.js and TypeScript</li>
+        <li>Proficient in HTML5, CSS, and ES6 & jQuery</li>
+        <li>Experienced with React.js and React Native</li>
+        <li>Familiar with Node.js and JavaScript</li>
+        <li>Familiar with Assembly language and Ubuntu</li>
+        <li>Experience with Arduino projects</li>
+        <li>Strong understanding of Object-Oriented Programming (OOP)</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Data Science & Analysis</strong>
+      <ul>
+        <li>Familiar with WGCNA and Machine Learning concepts</li>
+        <li>Proficient in RStudio and R language for data analysis</li>
+        <li>Skilled in data cleaning and transformation techniques</li>
+        <li>Experience with Microsoft Dynamics 365 PowerApps</li>
+        <li>Strong skills in Python and SQL</li>
+        <li>Experience in data visualization techniques</li>
+        <li>Knowledge of Gene Regulatory Networks (GRN)</li>
+        <li>Proficient in data visualization using various tools</li>
+        <li>Familiar with Firebase for application development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ### Frontend  
 <div align="center">  
