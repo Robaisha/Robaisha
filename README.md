@@ -1,10 +1,8 @@
 
 
-### <div align="center">Hi there 👋 I'm Robaisha, a Computer Science student at FAST-NUCES Karachi Pakistan😃</div>  
+### <div align="center">Hi there 👋 I'm Robaisha, a Computer Science student at Julius-Maximilians-Universität Würzburg,Germany😃</div>  
   
-
-🔭 Current Work:
-💼 Graduate Trainee focusing on Data Science and Development.
+📢 **Currently open to Working Student opportunities in Informatik**
 
 🌱 Software Development Expertise:
 <div>
@@ -15,8 +13,12 @@
   <p>MySQL 🗄️: Database management</p>
 </div>
 
+<br/> 
 🎓 Education:
-Computer Science graduate from FAST NUCES Batch 2024.
+<div>
+  <p>Masters in Computer Science Julius-Maximilians-Universität Würzburg, Germany(2025 – Present)</p>
+  <p>Bachelor's in Computer Science National University of Computer and Emerging Sciences (FAST-NUCES), Karachi, Pakistan (2020-2024)</p>
+</div>
   
 <br/>  
 
