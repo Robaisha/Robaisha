@@ -2,8 +2,6 @@
 
 ### <div align="center">Hi there 👋 I'm Robaisha, a Computer Science student at Julius-Maximilians-Universität Würzburg,Germany😃</div>  
   
-📢 **Currently open to Working Student opportunities in Informatik**
-
 🌱 Software Development Expertise:
 <div>
   <p>React JS 🌟: Building dynamic user interfaces - Front-end Development</p>
